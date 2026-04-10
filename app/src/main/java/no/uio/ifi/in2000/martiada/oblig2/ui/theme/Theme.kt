@@ -1,6 +1,5 @@
-package no.uio.ifi.in2000.martiada.oblig1.ui.theme
+package no.uio.ifi.in2000.martiada.oblig2.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
@@ -34,7 +33,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun Martiada_oblig1Theme(
+fun Martiada_oblig2Theme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,

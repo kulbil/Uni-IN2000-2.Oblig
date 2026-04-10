@@ -1,4 +1,4 @@
-package no.uio.ifi.in2000.martiada.oblig1.ui.theme
+package no.uio.ifi.in2000.martiada.oblig2.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

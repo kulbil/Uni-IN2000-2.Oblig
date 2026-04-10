@@ -1,4 +1,4 @@
-package no.uio.ifi.in2000.martiada.oblig1
+package no.uio.ifi.in2000.martiada.oblig2
 
 import org.junit.Test
 

@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "martiada_oblig1"
+rootProject.name = "martiada_oblig2"
 include(":app")
+ 
